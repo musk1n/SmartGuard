@@ -270,12 +270,11 @@ function App() {
             
             <div className="bg-white p-6 rounded-lg shadow-md">
               <p className="mb-4">
-                SmartGuard was created by a team of blockchain security experts and smart contract auditors with years of experience
-                identifying and fixing vulnerabilities in production smart contracts.
+              SmartGuard is an AI-powered tool designed to analyze Solidity smart contracts for security vulnerabilities and best practice violations. Our tool helps developers identify potential issues before deployment, reducing the risk of exploits and financial losses.
               </p>
               
               <p className="mb-4">
-                Our mission is to make blockchain technology safer by providing developers with accessible tools to identify
+                The mission is to make blockchain technology safer by providing developers with accessible tools to identify
                 security issues early in the development process, before they can be exploited.
               </p>
               
